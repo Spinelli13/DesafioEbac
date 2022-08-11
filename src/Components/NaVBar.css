@@ -1,0 +1,12 @@
+.header{
+    background-color:#510065;
+    margin-bottom: 51px;
+}
+
+.header h2{
+    display: flex;
+    justify-content: flex-start;
+    padding: 9px 31px;
+    font-size: 15px;
+    font-weight: 700;
+}

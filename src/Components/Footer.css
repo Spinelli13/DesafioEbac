@@ -1,0 +1,9 @@
+.footer-container{
+    display: flex;
+    justify-content: flex-start;
+    padding: 9px 31px;
+    font-size: 9px;
+    background-color:#510065;
+    margin-top: 101px;
+    font-weight: 700;
+}
